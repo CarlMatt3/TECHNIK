@@ -1,0 +1,45 @@
+.box1{
+	width: auto;
+	height:680px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:50px;
+	padding: 10px;
+	text-align: center;
+	overflow:auto;
+	font-family: 'Slabo 27px', serif;
+	font-size:18px;
+	background-color: #fff;
+}
+
+.box2,.box3{
+	width: auto;
+	height:620px;
+	margin: auto;
+	padding: 10px;
+	text-align: center;
+	overflow:auto;
+	font-family: 'Slabo 27px', serif;
+	font-size:18px;
+	background-color: #fff;
+}
+
+.bannerService{
+	width: auto;
+	height:260px;
+	margin: auto;
+	margin-top:50px;
+	padding: 80px;
+	background-color: #FFE04A;
+	overflow:auto;
+}
+
+.btn1{
+	background-color: #2F1B55;
+	padding: 5px 10px;
+	border-radius: 5px;
+	text-align: center;
+	border: none;
+	color: white;
+	
+}
